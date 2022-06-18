@@ -1,12 +1,10 @@
+
 ### Hi there @花帽子 👋
 
-<!--
-**jonny-wei/jonny-wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jonny-wei&show_icons=true&hide_border=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff" />
 
 - 🏄‍♂️ I’m currently working on **Alibaba**.
-- 📟 Focusing on **LowCode and NoCode**.
+- 📟 Focusing on **[LowCode and NoCode](https://lowcode-engine.cn/)**.
 - 🇨🇳 Peace & Love
 
 <br/>
@@ -22,7 +20,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<br/>
-
-![jonny-wei's github stats](https://github-readme-stats.vercel.app/api?username=jonny-wei&show_icons=true&hide_border=true)
