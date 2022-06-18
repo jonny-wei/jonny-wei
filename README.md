@@ -4,9 +4,12 @@
 **jonny-wei/jonny-wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Alibaba.
-- ⚡  Focusing on LowCode and NoCode.
 
+- 🏄‍♂️ I’m currently working on **Alibaba**.
+- 📟 Focusing on **LowCode and NoCode**.
+- 🇨🇳 Peace & Love
+
+<br/>
 
 **My technology stack:**  
 
