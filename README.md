@@ -5,7 +5,7 @@
 
 - 🏄‍♂️ I’m currently working on **Alibaba**.
 - 📟 Focusing on **[LowCode and NoCode](https://lowcode-engine.cn/)**.
-- 🚀 Focus on **Web3.0**, **NFT** and **Blockchain** in the future.
+- 🚀 Want to try **Web3.0**, **NFT** and **Blockchain**.
 - 🇨🇳 Peace & Love
 
 <br/>
